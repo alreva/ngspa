@@ -273,7 +273,7 @@ angular.module("about/about.tpl.html", []).run(["$templateCache", function($temp
 angular.module("home/home.tpl.html", []).run(["$templateCache", function($templateCache) {
   $templateCache.put("home/home.tpl.html",
     "<div class=\"jumbotron\">\n" +
-    "  <h1>Non-Trivial AngularJS Made Easy [Updated thru build > push > deploy]</h1>\n" +
+    "  <h1>Non-Trivial AngularJS Made Easy [Updated thru build > push > deploy > 2]</h1>\n" +
     "\n" +
     "  <p class=\"lead\">\n" +
     "    Everything you need to kickstart AngularJS projects: a best-practice\n" +
